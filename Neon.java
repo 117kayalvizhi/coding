@@ -17,9 +17,9 @@ public class Neon {
 			
 		}
 		if(sum==num) 
-			System.out.println("the num " +num +"is neon");
+			// System.out.println("the num " +num +"is neon");
 			else 
-			System.out.println("the num "+num+"is not neon");	
+			// System.out.println("the num "+num+"is not neon");	
 			
 		}
 	}
